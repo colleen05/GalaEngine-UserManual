@@ -10,6 +10,9 @@
 }
 
 :root {
+    --md-primary-fg-color: #d02;
+    --md-accent-fg-color: #d02;
+    --md-text-font: "DejaVu Sans";
     --md-typeset-a-color: red !important;
 }
 
@@ -24,8 +27,7 @@ body {
 
 .md-typeset {
     font-size: 16px;
-    font-family: "DejaVu Sans";
-    color: #ddd;
+    color: #ddd !important;
 }
 
 .md-typeset h1 {
@@ -46,15 +48,25 @@ body {
 
 
 /* UI */
+.md-search__input {
+    font-size: 16px;
+}
+
 .md-search__form {
-    background-color: #222;
+    background-color: #222 !important;
 }
 
 .md-search__form:hover {
-    background-color: #333;
+    background-color: #333 !important;
+}
+
+.md-search-result__meta {
+    color: #aaa;
+    background-color: #111 !important;
 }
 
 .md-nav__title {
+    margin-bottom: 8px;
     color: #aaa;
     font-size: 20px;
     background-color: transparent !important;
@@ -65,9 +77,13 @@ body {
     background-color: #000;
 }
 
-.md-nav__item .md-nav__link--active {
+.md-nav__item .md-nav__link {
+    margin: 0px;
     padding: 8px;
     padding-bottom: 6px;
+}
+
+.md-nav__item .md-nav__link--active {
     color: #d02 !important;
     font-weight: bold;
     background-color: #fff1;
