@@ -1,6 +1,9 @@
 site_name: "GalaEngine User Manual"
 site_url: "https://galaengine.com/"
 
+nav:
+    - "Home": "index.md"
+
 theme:
   logo: "resources/favicon.png"
   favicon: "resources/favicon.png"
