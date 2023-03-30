@@ -42,7 +42,8 @@ All files in this repository are provided under the [Creative Commons Attributio
 
 ## See also
 
-- [GalaEngine website](https://galaengine.com/)
+- [The GalaEngine website](https://galaengine.com/)
+- [The GalaEngine library documentation](https://galaengine.com/docs/)
 
 
 [^1]: https://wiki.creativecommons.org/wiki/License_Versions#Detailed_attribution_comparison_chart
