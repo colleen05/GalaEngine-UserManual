@@ -21,7 +21,8 @@ The following dependencies are required:
 
 ## License
 
-All files in this repository are provided under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](/LICENSE) (CC BY-SA 3.0).
+All files in this repository are provided under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/)
+(CC BY-SA 3.0). See [LICENSE](/LICENSE) for plaintext.
 
 ### You are free to:
 
