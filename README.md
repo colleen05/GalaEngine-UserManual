@@ -1,6 +1,6 @@
 # GalaEngine User Manual
 
-The "user manual" documentation for [GalaEngine](https://galaengine.com/). This
+The "user manual" documentation for [GalaEngine](https://github.com/colleen05/GalaEngine). This
 differs from the "Documentation" documentation, in that this serves as an easy,
 beginner-friendly guide to using GalaEngine.
 
@@ -38,5 +38,11 @@ All files in this repository are provided under the [Creative Commons Attributio
   use.
 - **ShareAlike** — If you remix, transform, or build upon the material, you
   must distribute your contributions under the same license as the original.
+
+
+## See also
+
+- [GalaEngine website](https://galaengine.com/)
+
 
 [^1]: https://wiki.creativecommons.org/wiki/License_Versions#Detailed_attribution_comparison_chart
