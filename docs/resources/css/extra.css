@@ -1,0 +1,76 @@
+@font-face {
+    font-family: "DejaVu Sans";
+    src: url('../fonts/DejaVuSans.ttf');
+}
+
+@font-face {
+    font-family: "DejaVu Sans";
+    src: url('../fonts/DejaVuSans-Bold.ttf');
+    font-weight: bold;
+}
+
+:root {
+    --md-typeset-a-color: red !important;
+}
+
+body {
+    background-color: #111;
+}
+
+/* Text */
+.md-header {
+    background-color: #000;
+}
+
+.md-typeset {
+    font-size: 16px;
+    font-family: "DejaVu Sans";
+    color: #ddd;
+}
+
+.md-typeset h1 {
+    margin-bottom: 0px;
+    color: #d02;
+    font-weight: bold;
+}
+
+.md-typeset a,
+.md-typeset a:hover {
+    color: #d02;
+    font-weight: bold;
+}
+
+.md-typeset a:hover {
+    text-decoration: underline;
+}
+
+
+/* UI */
+.md-search__form {
+    background-color: #222;
+}
+
+.md-search__form:hover {
+    background-color: #333;
+}
+
+.md-nav__title {
+    color: #aaa;
+    font-size: 20px;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.md-footer, .md-footer-meta {
+    background-color: #000;
+}
+
+.md-nav__item .md-nav__link--active {
+    padding: 8px;
+    padding-bottom: 6px;
+    color: #d02 !important;
+    font-weight: bold;
+    background-color: #fff1;
+    border-left: 4px solid #d02;
+    border-radius: 4px;
+}

@@ -1,0 +1,12 @@
+site_name: "GalaEngine User Manual"
+site_url: "https://galaengine.com/"
+
+theme:
+  logo: "resources/favicon.png"
+  favicon: "resources/favicon.png"
+  name: "material"
+  palette:
+    scheme: "slate"
+
+extra_css:
+  - "resources/css/extra.css"
